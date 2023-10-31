@@ -1,0 +1,8 @@
+Flask==1.1.1
+Werkzeug==2.0.1
+Pyrebase4==4.5.0
+torch==1.9.0
+torchvision==0.10.0
+numpy==1.19.5
+Cython==0.29.24
+transformers==2.1.1
