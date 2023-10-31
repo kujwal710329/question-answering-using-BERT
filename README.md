@@ -8,7 +8,6 @@ It's Smart-Question Answering System on short as well as long documents. It can 
 - Question Answering System Using Word2Vec Embedding Technique
 - Question Answering System Using Glove Embedding Technique
 - Question Answering System with Fine-Tuned BERT Technique
-- Question Answering System Using CDQA on Multiple Pdf Files
 
 ## Challenges
 
